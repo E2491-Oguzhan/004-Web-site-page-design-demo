@@ -83,6 +83,7 @@ nav {
   background-image: url(./img/showcase.jpg);
   min-height: 400px;
   background-attachment: fixed;
+  background-size: cover;
 }
 .heading {
   text-align: center;
